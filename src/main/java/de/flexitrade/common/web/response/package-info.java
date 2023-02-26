@@ -1,0 +1,1 @@
+package de.flexitrade.common.web.response;
